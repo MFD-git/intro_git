@@ -7,3 +7,4 @@ git log
 git log --oneline
 git log --oneline -n <数値>
 git log -p
+git rm --cached [ファイル名]
