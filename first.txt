@@ -1,1 +1,3 @@
 GITの勉強し始めるファーストファイルだ。
+git add
+git commit
