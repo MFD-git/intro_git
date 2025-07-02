@@ -3,3 +3,7 @@ git add
 git commit
 git rm
 git status
+git log
+git log --oneline
+git log --oneline -n <数値>
+git log -p
